@@ -7,7 +7,7 @@ const Hero = () => {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src="/images/site/imageTwo.jpg"
+          src="/images/site/imageOne.jpg"
           alt="An image showing Max"
           width={300}
           height={300}
@@ -15,8 +15,7 @@ const Hero = () => {
       </div>
       <h1>Hi, I'm Noa</h1>
       <p>
-        Dr. Noa graduated at the top of her class, and received her Teeth
-        Dentistry Degree in 2024 from Tel-Aviv University.
+        Hello there, I'm learning nextJS and deployed my first application.
       </p>
     </section>
   );
